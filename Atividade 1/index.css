@@ -1,0 +1,39 @@
+*{
+    background-color: antiquewhite;
+}
+
+body p{
+    
+}
+
+#A{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+    border: 1px solid green;
+    padding: 10px;
+    background-color: aqua;
+    text-align: center;
+}
+
+#A:hover{
+    background-color: blueviolet;
+    color: white;
+    transition: 1.5s;
+}
+
+#B{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+    border: 1px solid green;
+    padding: 10px;
+    background-color: goldenrod;
+    text-align: center;
+}
+
+#B:hover{
+    background-color: brown;
+    color: white;
+    transition: 1.5s;
+}
