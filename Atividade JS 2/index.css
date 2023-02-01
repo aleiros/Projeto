@@ -1,0 +1,39 @@
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#caixa1{
+    background-color: blue;
+}
+
+#caixa2{
+    background-color: red;
+}
+
+#caixa3{
+    background-color: black;
+}
+
+
+
+
+button{
+    background-color: green;
+    color: white;
+}
+
+button:hover{
+    background-color: white;
+    color: green;
+}
